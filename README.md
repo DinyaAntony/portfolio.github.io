@@ -1,6 +1,5 @@
 # portfolio.github.io
 
-Project on Visualizing Car Insurance Claims using Tableau
+MRA Project
 
-This project explored the art of problem-solving with the aid of visual analytics. 
-Tableau’s data visualization tools were used to create interactive dashboards to provide high-level insights into an Insurance company to drive the company's car insurance schemes.
+A Grocery Store shared the transactional data with you. Your job is to identify the most popular combos that can be suggested to the Grocery Store chain after a thorough analysis of the most commonly occurring sets of menu items in the customer orders. The Store doesn’t have any combo meals. Can you suggest the best combo meals?
