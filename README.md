@@ -1,6 +1,5 @@
 # portfolio.github.io
 
-Project on Visualizing Car Insurance Claims using Tableau
+MRA Project
 
-This project explored the art of problem-solving with the aid of visual analytics. 
-Tableau’s data visualization tools were used to create interactive dashboards to provide high-level insights into an Insurance company to drive the company's car insurance schemes.
+This project aims to find the underlying buying patterns of the customers of an automobile part manufacturer based on the past 3 years of the Company's transaction data and hence recommend customized marketing strategies for different segments of customers.
