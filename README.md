@@ -1,5 +1,5 @@
 # portfolio.github.io
 
-MRA Project-1
+SQL Project
 
-A Grocery Store shared the transactional data with you. Your job is to identify the most popular combos that can be suggested to the Grocery Store chain after a thorough analysis of the most commonly occurring sets of menu items in the customer orders. The Store doesn’t have any combo meals. Can you suggest the best combo meals?
+You are hired by a chain of online retail stores “Fastkart”. They have provided you with “Fastkart” database and seek answers to the following queries as the results from these queries will help the company in making data-driven decisions that will impact the overall growth of the online retail stores.
