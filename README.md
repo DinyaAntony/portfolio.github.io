@@ -1,5 +1,5 @@
 # portfolio.github.io
 
-SQL Project
+Perdiction Project
 
-You are hired by a chain of online retail stores “Fastkart”. They have provided you with “Fastkart” database and seek answers to the following queries as the results from these queries will help the company in making data-driven decisions that will impact the overall growth of the online retail stores.
+Predicting and analyzing the price of houses based on several independent and dependent features, that is: demand & supply factors that could influence US home prices. 
