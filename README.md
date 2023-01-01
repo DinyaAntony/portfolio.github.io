@@ -1,5 +1,6 @@
 # portfolio.github.io
 
-SQL Project
+Critical risk analysis of intraday trading using algorithms like Black-Scholes, Random-Walk and comparison of those with TWAP, MACD strategy, through visual analysis
 
-You are hired by a chain of online retail stores “Fastkart”. They have provided you with “Fastkart” database and seek answers to the following queries as the results from these queries will help the company in making data-driven decisions that will impact the overall growth of the online retail stores.
+
+Analyzing trading using widely used algorithms like Black-Scholes, Rolling Volatility and comparison of those algorithms with the help of TWAP MCAD strategy. Using Refinitiv
