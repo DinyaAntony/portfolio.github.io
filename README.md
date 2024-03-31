@@ -32,4 +32,4 @@ This repository contains the code and analysis for conducting Market Basket Anal
 ***Conclusion:***
 Market Basket Analysis provides valuable insights into customer purchasing behavior, enabling grocery stores to optimize sales strategies and enhance customer satisfaction. By leveraging MBA techniques and implementing targeted promotions, retailers can unlock their sales potential and drive business growth.
 
-Can also read @https://medium.com/@dinyaantony4/unlocking-sales-potential-market-basket-analysis-for-your-grocery-store-beaa258fe920
+refer for more: @https://medium.com/@dinyaantony4/unlocking-sales-potential-market-basket-analysis-for-your-grocery-store-beaa258fe920
