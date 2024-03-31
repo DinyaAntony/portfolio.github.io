@@ -1,10 +1,3 @@
-#-------------------------------------------------------
-#--  SQL Project
-#-------------------------------------------------------
-
-#--After runing schema Fastkart.sql
-
-#-- Question. 1
 
 #--1. List Top 3 products based on QuantityAvailable. (productid, productname, QuantityAvailable ).
 
