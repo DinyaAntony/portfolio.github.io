@@ -40,4 +40,4 @@ This repository contains the code and analysis for conducting Market Basket Anal
 
 ***python app.py***
 
-refer for more: @https://medium.com/@dinyaantony4/level-up-your-numerical-accuracy-with-the-number-game-3749dd062e08
+***refer for more: @https://medium.com/@dinyaantony4/level-up-your-numerical-accuracy-with-the-number-game-3749dd062e08***
