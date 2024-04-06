@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number Game</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>NUMBER, SPEED & ACCURACY Game</h1>
+
+        <div id="timer">Time remaining: <span id="timer-value">2:00</span></div>
+
+        <div id="game-container">
+            <p id="number-display">Numbers will appear here</p>
+            <div id="number-buttons">
+                <!-- Number buttons will be dynamically added here -->
+            </div>
+            <button id="submit-btn">End Game</button>
+        </div>
+        <div id="instructions">
+            <h2>Instructions:</h2>
+            <p>Click on the number which is further from the median, the smallest or the largest.</p>
+            <p>Each correct answer earns 1 point, and each wrong answer deducts 0.5 points.</p>
+            <p>Try to achieve the highest score possible within the time limit!</p>
+        </div>
+        <p id="result"></p>
+        <p id="score-info"></p> <!-- Display final score and number of answers here -->
+        <p id="accuracy-rate"></p>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
